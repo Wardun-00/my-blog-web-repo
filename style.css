@@ -1,0 +1,55 @@
+
+body{
+
+    background-image:url(./lite.jpg);
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-size:100%;
+   
+   
+    
+}
+.img1{
+    float:right;
+    width:400px;
+    height:400px;
+   
+}
+
+.img2{
+    float:right;
+    width:400px;
+    height:400px;
+}
+h1{
+    color:rgb(17, 12, 17);
+    text-shadow:6px 5px 5px rgb(134, 28, 134);
+
+}
+
+hr{
+    width:50%;
+    height:5px;
+    float:left;
+    background-color:purple;
+    box-shadow:1px 2px 5px rgba(47, 10, 61, 0.788);
+    
+}
+
+p{
+    font-size:20px;
+    text-align:left;
+    text-shadow:1px 1px 1px purple;
+}
+
+strong{
+    font-size:30px;
+}
+.name{
+    font-size:15px;
+}
+
+h2{
+    text-align:center;
+    color:purple;
+}
